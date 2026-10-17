@@ -1,0 +1,9 @@
+.product-info {
+    flex: 1;
+    min-width: 15rem;
+    max-width: clamp(20rem, 11.923rem + 35.897vw, 55rem);
+}
+
+.product-info__texto {
+    font-size: clamp(1rem, 0.746rem + 1.128vw, 2.1rem);
+}

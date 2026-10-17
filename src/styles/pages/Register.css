@@ -1,0 +1,7 @@
+.register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: clamp(20rem, 16.538rem + 15.385vw, 35rem);
+  padding: 1rem;
+}

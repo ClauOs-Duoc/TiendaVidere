@@ -1,0 +1,13 @@
+.admin-users {
+    margin-block: 2rem;
+    color: white;
+}
+
+.admin-users__fila {
+    row-gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.admin-users__col {
+    display: flex;
+}

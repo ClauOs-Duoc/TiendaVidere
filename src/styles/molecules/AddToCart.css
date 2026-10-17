@@ -1,0 +1,7 @@
+.add-to-cart {
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    gap: 1.25rem;
+    width: clamp(10rem, 6.538rem + 15.385vw, 25rem);
+}

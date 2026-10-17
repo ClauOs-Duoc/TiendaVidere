@@ -1,0 +1,21 @@
+.user-menu {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.user-menu__toggle {
+    padding: 0;
+    cursor: pointer;
+}
+
+.user-menu__toggle::after {
+    display: none;
+}
+
+.user-menu__avatar {
+    width: clamp(2.5rem, 2.2rem + 1vw, 3.5rem);
+    aspect-ratio: 1;
+    border-radius: 50%;
+    object-fit: cover;
+}

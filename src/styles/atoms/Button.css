@@ -1,0 +1,25 @@
+.btn.boton-sesion-registro {
+  width: clamp(8rem, 7.538rem + 2.051vw, 10rem);
+  padding-block: 0.5rem;
+  background-color: #1A1208;
+  color: white;
+  border: solid black;
+}
+
+.btn.boton-sesion-registro:hover {
+  background-color: #2E6F40;
+  color: black;
+  border-color: black;
+}
+
+.btn.boton-header {
+  background-color: #1A1208;
+  color: white;
+  border: solid black;
+}
+
+.btn.boton-header:hover {
+  background-color: #2E6F40;
+  color: black;
+  border-color: black;
+}

@@ -1,0 +1,13 @@
+.cart {
+    margin-block: 2rem;
+    color: white;
+}
+
+.cart__fila {
+    row-gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.cart__col {
+    display: flex;
+}
